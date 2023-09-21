@@ -1,2 +1,2 @@
 # ToDoList
-I have Created Todolist withe help off React.js
+I have Created Todolist with the help off React.js
